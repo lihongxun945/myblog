@@ -15,7 +15,7 @@
 
 # 文章列表
 
-- [JS引擎基础：Shapes 和 ICs]()
+- [JS引擎基础：Shapes 和 ICs](https://github.com/lihongxun945/myblog/issues/1)
 
 # 如何订阅和收藏
 
