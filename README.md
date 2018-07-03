@@ -44,6 +44,10 @@
 
 地址：[Tiny-Vue](https://github.com/lihongxun945/tiny-vue)
 
+**五子棋AI教程**
+
+纯JS实现一个具有较高棋力的五子棋AI，完全在浏览器中运行。项目地址： [gobang](http://gobang.light7.cn/)。因为之前的文章比较久了，所以我会整理一个新的系列文章出来，敬请期待。
+
 # 如何订阅和收藏
 
 点击左上角`Star`收藏，点击`Watch` 订阅
