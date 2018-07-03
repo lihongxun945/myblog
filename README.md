@@ -17,8 +17,9 @@
 
 这里都是每周读书笔记性质的博客。
 
-- [JS引擎基础：Shapes 和 ICs](https://github.com/lihongxun945/myblog/issues/2)
-- [我们为什么需要指令](https://github.com/lihongxun945/myblog/issues/1)
+- [我们为什么需要指令](https://github.com/lihongxun945/myblog/issues/2)
+- [JS引擎基础：Shapes 和 ICs](https://github.com/lihongxun945/myblog/issues/1)
+
 
 # 系列博客(精华)
 
