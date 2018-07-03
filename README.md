@@ -1,5 +1,5 @@
 # 言川的博客
-以后就在github上用issue写博客了。Issue写博客的好处是：
+从2018/07/01以后就在github上用issue写博客了。Issue写博客的好处是：
 
 1. 可以在线编辑，预览
 2. 可以评论
@@ -17,7 +17,8 @@
 
 这里都是每周读书笔记性质的博客。
 
-- [JS引擎基础：Shapes 和 ICs](https://github.com/lihongxun945/myblog/issues/1)
+- [JS引擎基础：Shapes 和 ICs](https://github.com/lihongxun945/myblog/issues/2)
+- [我们为什么需要指令](https://github.com/lihongxun945/myblog/issues/1)
 
 # 系列博客(精华)
 
