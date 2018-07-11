@@ -1,4 +1,5 @@
 # 言川的博客
+
 从2018/07/01以后就在github上用issue写博客了。Issue写博客的好处是：
 
 1. 可以在线编辑，预览
@@ -15,8 +16,9 @@
 
 # 每周笔记列表
 
-这里都是每周读书笔记性质的博客。
+这里都是每周读书笔记性质的博客，以前端知识为主，每一篇文章讲述一个主题。
 
+- [理解 Iterator, Generator 和 Async/Await](https://github.com/lihongxun945/myblog/issues/3)
 - [我们为什么需要指令](https://github.com/lihongxun945/myblog/issues/2)
 - [JS引擎基础：Shapes 和 ICs](https://github.com/lihongxun945/myblog/issues/1)
 
