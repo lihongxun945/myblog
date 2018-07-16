@@ -54,9 +54,19 @@
 
 源码地址：[Tiny-Vue](https://github.com/lihongxun945/tiny-vue)
 
-**五子棋AI教程**
+**五子棋AI教程第二版**
 
-纯JS实现一个具有较高棋力的五子棋AI，完全在浏览器中运行。项目地址： [gobang](http://gobang.light7.cn/)。因为之前的文章比较久了，所以我会整理一个新的系列文章出来，敬请期待。
+纯JS实现一个具有较高棋力的五子棋AI，完全在浏览器中运行。项目地址： [gobang](http://gobang.light7.cn/)。这是第二版教程，详细解析了五子棋AI设计的每一个环节：
+
+- [五子棋AI设计教程第二版一：前言](https://github.com/lihongxun945/myblog/issues/11)
+- [五子棋AI设计教程第二版二：博弈算法的前世今生](https://github.com/lihongxun945/myblog/issues/12)
+- [五子棋AI设计教程第二版三：极小化极大值搜索](https://github.com/lihongxun945/myblog/issues/13)
+- [五子棋AI设计教程第二版四：Alpha Beta 剪枝算法](https://github.com/lihongxun945/myblog/issues/14)
+- [五子棋AI设计教程第二版五：启发式评估函数](https://github.com/lihongxun945/myblog/issues/15)
+- [五子棋AI设计教程第二版六：迭代加深](https://github.com/lihongxun945/myblog/issues/16)
+- [五子棋AI设计教程第二版七：Zobrist缓存](https://github.com/lihongxun945/myblog/issues/17)
+- [五子棋AI设计教程第二版八：算杀](https://github.com/lihongxun945/myblog/issues/18)
+- [五子棋AI设计教程第二版九：性能优化](https://github.com/lihongxun945/myblog/issues/19)
 
 # 如何订阅和收藏
 
