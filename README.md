@@ -12,7 +12,7 @@
 1. 无法管理版本
 2. 插入图片不方便
 
-旧博客地址：[言川的博客-CSDN](https://blog.csdn.net/lihongxun945?viewmode=contents)
+2018/07之前在CSDN大约写了100+博客，涉及到前端，java，算法，人工智能等很多领域，地址：[言川的博客-CSDN](https://blog.csdn.net/lihongxun945?viewmode=contents)
 
 # 每周笔记列表
 
