@@ -12,12 +12,13 @@
 1. 无法管理版本
 2. 插入图片不方便
 
-旧博客地址：[言川的博客-CSDN](https://blog.csdn.net/lihongxun945?viewmode=contents)
+2018/07之前在CSDN大约写了100+博客，涉及到前端，java，算法，人工智能等很多领域，地址：[言川的博客-CSDN](https://blog.csdn.net/lihongxun945?viewmode=contents)
 
 # 每周笔记列表
 
 这里都是每周读书笔记性质的博客，以前端知识为主，每一篇文章讲述一个主题。
 
+- [使用Rollup构建你的JS代码](https://github.com/lihongxun945/myblog/issues/20)
 - [理解 Iterator, Generator 和 Async/Await](https://github.com/lihongxun945/myblog/issues/3)
 - [我们为什么需要指令](https://github.com/lihongxun945/myblog/issues/2)
 - [JS引擎基础：Shapes 和 ICs](https://github.com/lihongxun945/myblog/issues/1)
