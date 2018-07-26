@@ -83,7 +83,7 @@
 `言川` 是我的笔名。个人特点总结：
 
 - 前端工程师，精通前端技术，精通 Vue/Webpack，熟悉Node/React，涉猎广泛，对算法/后端/人工智能/linux等都有一定研究
-- 开源爱好者，github上目前总计 `6000+` Star
+- 开源爱好者，github上目前总计 `5000+` Star
 - 闲暇之余喜欢写博客，之前在 [言川的博客-CSDN](https://blog.csdn.net/lihongxun945?viewmode=contents)上写，近期切换到了github。总计发表过 100 余篇博客，涉及到前端、后端、算法、人工智能、linux等多个领域。
 - 业余爱好：研究技术/写博客，健身，Dota，美食。
 - Base Shanghai
