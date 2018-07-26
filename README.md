@@ -28,10 +28,13 @@
 
 这里是通过一个系列深入理解某一个比较大的主题，因为每一个系列都会有很多篇文章，所以在这里分类整理。
 
-**Vue2.x源码解析系列（持续更新中..)**
+**Vue2.x源码解析系列（持续更新中..):boom::boom::boom:**
 
 这是在 `2018/07/22`开始的新的系列文章，解析当前最新的 `Vue@2.5.16` 的源码。因为之前写过 `vue1.x源码解析` 文章，所以请放心会是一个高质量的系列。计划在一个月的时间左右完成，也就是到 `2018/08/31` 之前能完成这个系列。建议点击右上角 `Watch` 订阅博客，不要错过每一篇更新。
 
+- [Vue2.x源码解析系列一：我的源码阅读心得](https://github.com/lihongxun945/myblog/issues/22)
+- [vue2.x源码解析系列二: Vue组件初始化过程概要](https://github.com/lihongxun945/myblog/issues/23)
+- [Vue2.x源码解析系列三：Options配置的处理](https://github.com/lihongxun945/myblog/issues/24)
 
 **Webpack 源码解析系列**
 
