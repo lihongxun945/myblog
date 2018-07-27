@@ -93,4 +93,8 @@
 - Base Shanghai
 
 **想加个好友？**
-如果你看完了上面的个人特点，觉得我们可以做个朋友，并且认为你自己是一个有追求的工程师，那么可以通过邮件索取我的微信号交流技术，[lihongxun945@gmail.com](mailto:lihongxun945@gmail.com)。请在邮件内部附上你的github主页以供参考。
+
+加我的微信，获取我的最新动态。**注意，仅分享技术心得，不涉及个人生活**
+搜索微信号**yanchuanjs**，或者扫描下方二维码：
+
+![vcode](https://raw.githubusercontent.com/lihongxun945/myblog/master/images/yanchuan-vcode.jpg)
