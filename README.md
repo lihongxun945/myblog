@@ -18,6 +18,7 @@
 
 这里都是每周读书笔记性质的博客，以前端知识为主，每一篇文章讲述一个主题。
 
+- [关于Vue和React区别的一些笔记](https://github.com/lihongxun945/myblog/issues/21)
 - [使用Rollup构建你的JS代码](https://github.com/lihongxun945/myblog/issues/20)
 - [理解 Iterator, Generator 和 Async/Await](https://github.com/lihongxun945/myblog/issues/3)
 - [我们为什么需要指令](https://github.com/lihongxun945/myblog/issues/2)
@@ -94,7 +95,7 @@
 
 **想加个好友？**
 
-加我的微信，获取我的最新动态。**注意，仅分享技术心得，不涉及个人生活**
+加我的微信，获取我的最新动态。**注意，专用微信号，仅分享技术心得，不涉及个人生活**
 搜索微信号**yanchuanjs**，或者扫描下方二维码：
 
 ![vcode](https://raw.githubusercontent.com/lihongxun945/myblog/master/images/yanchuan-vcode.jpg)
