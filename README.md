@@ -95,7 +95,7 @@
 
 **想加个好友？**
 
-加我的微信，获取我的最新动态。**注意，仅分享技术心得，不涉及个人生活**
+加我的微信，获取我的最新动态。**注意，专用微信号，仅分享技术心得，不涉及个人生活**
 搜索微信号**yanchuanjs**，或者扫描下方二维码：
 
 ![vcode](https://raw.githubusercontent.com/lihongxun945/myblog/master/images/yanchuan-vcode.jpg)
