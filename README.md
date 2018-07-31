@@ -37,6 +37,7 @@
 - [vue2.x源码解析系列二: Vue组件初始化过程概要](https://github.com/lihongxun945/myblog/issues/23)
 - [Vue2.x源码解析系列三：Options配置的处理](https://github.com/lihongxun945/myblog/issues/24)
 - [Vue2.x源码解析系列四：数据响应之Observer](https://github.com/lihongxun945/myblog/issues/25)
+- [Vue2.x源码解析系列五：数据响应之Watcher](https://github.com/lihongxun945/myblog/issues/27)
 
 **Webpack 源码解析系列**
 
