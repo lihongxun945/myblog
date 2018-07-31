@@ -18,9 +18,9 @@
 
 这里都是每周读书笔记性质的博客，以前端知识为主，每一篇文章讲述一个主题。
 
-- [关于Vue和React区别的一些笔记](https://github.com/lihongxun945/myblog/issues/21)
+- [关于Vue和React区别的一些笔记:star:](https://github.com/lihongxun945/myblog/issues/21)
 - [使用Rollup构建你的JS代码](https://github.com/lihongxun945/myblog/issues/20)
-- [理解 Iterator, Generator 和 Async/Await](https://github.com/lihongxun945/myblog/issues/3)
+- [理解 Iterator, Generator 和 Async/Await:star:](https://github.com/lihongxun945/myblog/issues/3)
 - [我们为什么需要指令](https://github.com/lihongxun945/myblog/issues/2)
 - [JS引擎基础：Shapes 和 ICs](https://github.com/lihongxun945/myblog/issues/1)
 
