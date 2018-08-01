@@ -2,15 +2,17 @@
 
 从2018/07/01以后就在github上用issue写博客了。Issue写博客的好处是：
 
-1. 可以在线编辑，预览
-2. 可以评论
-3. 可以打标签
-4. 可以写模板
+1. 完美支持 Markdown
+2. 可以在线编辑，预览
+3. 可以评论
+4. 可以打标签
+5. 可以写模板
 
 缺点是：
 
 1. 无法管理版本
 2. 插入图片不方便
+3. 没法自定义主题
 
 2018/07之前在CSDN大约写了100+博客，涉及到前端，java，算法，人工智能等很多领域，地址：[言川的博客-CSDN](https://blog.csdn.net/lihongxun945?viewmode=contents)
 
@@ -18,9 +20,9 @@
 
 这里都是每周读书笔记性质的博客，以前端知识为主，每一篇文章讲述一个主题。
 
-- [关于Vue和React区别的一些笔记](https://github.com/lihongxun945/myblog/issues/21)
+- [关于Vue和React区别的一些笔记:star:](https://github.com/lihongxun945/myblog/issues/21)
 - [使用Rollup构建你的JS代码](https://github.com/lihongxun945/myblog/issues/20)
-- [理解 Iterator, Generator 和 Async/Await](https://github.com/lihongxun945/myblog/issues/3)
+- [理解 Iterator, Generator 和 Async/Await:star:](https://github.com/lihongxun945/myblog/issues/3)
 - [我们为什么需要指令](https://github.com/lihongxun945/myblog/issues/2)
 - [JS引擎基础：Shapes 和 ICs](https://github.com/lihongxun945/myblog/issues/1)
 
@@ -37,6 +39,9 @@
 - [vue2.x源码解析系列二: Vue组件初始化过程概要](https://github.com/lihongxun945/myblog/issues/23)
 - [Vue2.x源码解析系列三：Options配置的处理](https://github.com/lihongxun945/myblog/issues/24)
 - [Vue2.x源码解析系列四：数据响应之Observer](https://github.com/lihongxun945/myblog/issues/25)
+- [Vue2.x源码解析系列五：数据响应之Watcher](https://github.com/lihongxun945/myblog/issues/27)
+- [Vue2.x源码解析系列六：模板渲染之render和watcher](https://github.com/lihongxun945/myblog/issues/28)
+- [Vue2.x源码解析系列七：深入Compiler理解render函数的生成过程](https://github.com/lihongxun945/myblog/issues/29)
 
 **Webpack 源码解析系列**
 
