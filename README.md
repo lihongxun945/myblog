@@ -40,6 +40,8 @@
 - [Vue2.x源码解析系列三：Options配置的处理](https://github.com/lihongxun945/myblog/issues/24)
 - [Vue2.x源码解析系列四：数据响应之Observer](https://github.com/lihongxun945/myblog/issues/25)
 - [Vue2.x源码解析系列五：数据响应之Watcher](https://github.com/lihongxun945/myblog/issues/27)
+- [Vue2.x源码解析系列六：模板渲染之render和watcher](https://github.com/lihongxun945/myblog/issues/28)
+- [Vue2.x源码解析系列七：深入Compiler理解render函数的生成过程](https://github.com/lihongxun945/myblog/issues/29)
 
 **Webpack 源码解析系列**
 
