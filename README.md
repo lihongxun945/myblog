@@ -18,8 +18,9 @@
 
 # 每周笔记列表
 
-这里都是每周读书笔记性质的博客，以前端知识为主，每一篇文章讲述一个主题。
+这里都是每周读书笔记性质的博客，以前端知识为主，记录每周学习的各种零碎知识。（按时间倒序）
 
+- [Vue3.0开发路线发布](https://github.com/lihongxun945/myblog/issues/36)
 - [关于Vue和React区别的一些笔记:star:](https://github.com/lihongxun945/myblog/issues/21)
 - [使用Rollup构建你的JS代码](https://github.com/lihongxun945/myblog/issues/20)
 - [理解 Iterator, Generator 和 Async/Await:star:](https://github.com/lihongxun945/myblog/issues/3)
