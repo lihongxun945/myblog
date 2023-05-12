@@ -1,5 +1,7 @@
 # 言川的博客
 
+看博客直接点这里 [issues](https://github.com/lihongxun945/myblog/issues)
+
 从2018/07/01以后就在github上用issue写博客了。Issue写博客的好处是：
 
 1. 完美支持 Markdown
@@ -20,6 +22,16 @@
 
 这里都是每周读书笔记性质的博客，以前端知识为主，记录每周学习的各种零碎知识。（按时间倒序）
 
+
+- [通过少量切图实现雷达图的一种方式（不用SVG和Canvas）](https://github.com/lihongxun945/myblog/issues/57)
+- [随手笔记：cherry-pick 实现跨仓库合并代码](https://github.com/lihongxun945/myblog/issues/55)
+- [你不知道的JS数组](https://github.com/lihongxun945/myblog/issues/53)
+- [43行代码实现Vue3响应式](https://github.com/lihongxun945/myblog/issues/52)
+- [React中如何优雅的使用定时器](https://github.com/lihongxun945/myblog/issues/51)
+- [vite笔记](https://github.com/lihongxun945/myblog/issues/50)
+- [useEffect与闭包](https://github.com/lihongxun945/myblog/issues/47)
+- [git 配置代理](https://github.com/lihongxun945/myblog/issues/46)
+- [React Hooks 1 - State Hook , Effect Hook, Custom Hook](https://github.com/lihongxun945/myblog/issues/41)
 - [我做阿里技术面试官的一些经验](https://github.com/lihongxun945/myblog/issues/40)
 - [Vue3.0开发路线发布](https://github.com/lihongxun945/myblog/issues/36)
 - [关于Vue和React区别的一些笔记:star:](https://github.com/lihongxun945/myblog/issues/21)
