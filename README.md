@@ -1,12 +1,12 @@
 # 言川的博客
 
-看博客直接点这里 [issues](https://github.com/lihongxun945/myblog/issues)
+看博客直接点这里 [issues](https://github.com/lihongxun945/myblog/issues)，想保持关注的同学欢迎点击右上角订阅.
 
 从2018/07/01以后就在github上用issue写博客了。Issue写博客的好处是：
 
 1. 完美支持 Markdown
 2. 可以在线编辑，预览
-3. 可以评论
+3. 可以评论和订阅
 4. 可以打标签
 5. 可以写模板
 
