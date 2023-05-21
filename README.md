@@ -22,7 +22,7 @@
 
 这里都是每周读书笔记性质的博客，以前端知识为主，记录每周学习的各种零碎知识。（按时间倒序）
 
-
+- [如何用Lora给自己女朋友建模](https://github.com/lihongxun945/myblog/issues/58)
 - [通过少量切图实现雷达图的一种方式（不用SVG和Canvas）](https://github.com/lihongxun945/myblog/issues/57)
 - [随手笔记：cherry-pick 实现跨仓库合并代码](https://github.com/lihongxun945/myblog/issues/55)
 - [你不知道的JS数组](https://github.com/lihongxun945/myblog/issues/53)
